@@ -3,7 +3,7 @@ pages:
       - Inicio: index.md
       - Sobre: sobre.md
       - Planejamento: Planejamento.md
-      - Pré-Rastreabilidade: Pré-Rastreabilidade
+      - Pre-Rastreabilidade: rast.md
 theme:
   name: null
   custom_dir: 'cinder'
