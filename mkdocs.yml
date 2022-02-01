@@ -2,7 +2,6 @@ site_name: Projeto da disciplina
 pages:
       - Inicio: index.md
       - Sobre: sobre.md
-      - Planejamento: Planejamento.md
       - Pre-Rastreabilidade: rast.md
 theme:
   name: null
